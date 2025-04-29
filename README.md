@@ -59,7 +59,12 @@ git blame <файл>       # Посмотреть, кто изменил каж�
 
 ### 📎 Полезные ссылки
 
-- [https://git-scm.com/book/ru/v2?spm=a2ty_o01.29997173.0.0.70eec9211BhLjz] Официальная документация Git
-- [https://github.com/?spm=a2ty_o01.29997173.0.0.70eec9211BhLjz] GitHub
-- [https://www.gitkraken.com/?spm=a2ty_o01.29997173.0.0.70eec9211BhLjz] GitKraken — графический клиент Git
-- [https://learngitbranching.js.org/?spm=a2ty_o01.29997173.0.0.70eec9211BhLjz] Learn Git Branching — интерактивное обучение
+- [Официальная документация Git][1]
+- [GitHub][2]
+- [GitKraken — графический клиент Git][3]
+- [Learn Git Branching — интерактивное обучение][4]
+
+[1]: https://git-scm.com/book/ru/v2?spm=a2ty_o01.29997173.0.0.70eec9211BhLjz
+[2]: https://github.com/?spm=a2ty_o01.29997173.0.0.70eec9211BhLjz
+[3]: https://www.gitkraken.com/?spm=a2ty_o01.29997173.0.0.70eec9211BhLjz
+[4]: https://learngitbranching.js.org/?spm=a2ty_o01.29997173.0.0.70eec9211BhLjz
